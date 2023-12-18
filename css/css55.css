@@ -1,0 +1,77 @@
+div.div111{
+    position: relative;
+    height: 750px;
+}
+
+div.div1 {
+    background-color: black;
+}
+
+div.div1>a {
+    text-decoration: none;
+    color: aliceblue;
+    display: inline-block;
+    padding: 12px;
+}
+
+div.div1>a:hover {
+    background-color: rgb(31, 30, 30);
+}
+
+div.div2 {
+    background-color: rgb(61, 57, 57);
+    /* width: 250px;
+    margin: 0; */
+    position: absolute;
+    left: 0;
+    right: 70%;
+    top: 42px;
+    bottom: 74px;
+}
+
+div.div2>a {
+    text-decoration: none;
+    color: aliceblue;
+    display: inline-block;
+    margin: 0;
+    padding: 12px;
+    width: 100%;
+}
+
+div.div2>a:hover {
+    background-color: rgb(48, 46, 46);
+}
+
+div.div3{
+    position: absolute;
+    top: 42px;
+    right: 0;
+    left: 30%;
+    bottom: 74px;
+    background-color: rgb(81, 110, 38); 
+    overflow: auto;
+    /* height: 210px; */
+}
+
+div.div3>h3{
+    color: rgb(0, 255, 242);
+    padding-left: 12px;
+}
+div.div3>p{
+    color: aliceblue;
+    padding-inline: 12px;
+}
+
+div.div4{
+    background-color: rgb(32, 122, 92);
+    color: aliceblue;
+    position: absolute;
+    /* top: 252px; */
+    left: 0;
+    right: 0;
+bottom: 0;
+}
+div.div4>p{
+    padding: 12px;
+    text-align: center;
+}

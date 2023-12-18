@@ -1,0 +1,33 @@
+/* div{
+    border: 1px solid black;
+    height: 50px;
+} */
+.h2{
+    /* position: relative;
+    left: 30px;
+    top: 30px; */
+    /* position: fixed;
+    bottom: 0;
+    right: 0; */
+    /* position: relative;
+    width: 400px;
+    height: 200px; */
+    /* position: -webkit-sticky;
+    position: sticky;
+    top: 5px;
+    z-index: 2;
+    background-color: brown;
+    color: aliceblue; */
+}
+.h10{
+    /* position: -webkit-sticky;
+    position: sticky;
+    bottom: 0; */
+}
+/* .h3{
+    position: absolute;
+    top: 80px;
+    right: 10px;
+    width: 150px;
+    height: 100px;
+} */
